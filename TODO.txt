@@ -1,0 +1,15 @@
+2014-04-16
+
+## MAPS
+
+- Design 25 maps
+
+## PLAY
+
+- Health and ammo drop
+
+## OPTIONAL
+
+- Write a resourcemanager class.
+- Write a gamespace class that keeps track of where stuff are at.
+- Move the Collision to a module called RectangularCollision and include it in each class which are in need.
